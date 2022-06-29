@@ -1,0 +1,23 @@
+.contenedor-completo{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.contenedor.primario{
+   width: 100%; 
+}
+.contenedor.secundario{
+    width: 100%;
+}
+
+#lienzo_orto{
+    height: 2000px;
+    width: 2000px;
+    background-color: #819BE1;
+}
+#lienzo_dis{
+    height: 800px;
+    width: 800px;
+    background-color: #819BE1;
+}
+
+
